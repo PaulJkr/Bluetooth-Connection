@@ -1,6 +1,6 @@
 # watch
 
-A new Flutter project.
+A Simple Flutter project to boost bluetooth connection using FlutterBluePlus and Permission Handler
 
 ## Getting Started
 
