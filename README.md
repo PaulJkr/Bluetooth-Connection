@@ -1,4 +1,4 @@
-# watch
+# Oraimo watch
 
 A Simple Flutter project to boost bluetooth connection using FlutterBluePlus and Permission Handler
 
