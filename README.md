@@ -1,11 +1,11 @@
 # Oraimo watch
 
-A Simple Flutter project to boost bluetooth connection using FlutterBluePlus and Permission Handler
+A Simple Flutter project to boost bluetooth connection using FlutterBluePlus and Permission Handler.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
+Its also open source so feel free to make edits.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
